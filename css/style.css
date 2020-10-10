@@ -136,6 +136,7 @@ padding-right: 0;
 	border-radius: 5px;
 }
 .custom-btn{
+	width: 100%;
 	background-color: #fcdb00;
 	color: #010101;
 	font-size: 19px;
